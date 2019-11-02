@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/json-lib-2.1-rev6.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/aip-java-sdk-4.11.1.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/json-20160810.jar" sourcepath="d:/m2/repository/org/json/json/20160810/json-20160810-sources.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="src/com/baidu/ai/api/orc/fastjson-1.2.62.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_201"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
